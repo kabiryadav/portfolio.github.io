@@ -1,0 +1,18 @@
+.one{background-color: aqua; }
+
+ul{float: right;
+    list-style-type: none;
+    display:inline-block;
+    margin-top: 20px;}
+
+li{float:left;}
+
+.one li a{text-decoration:none;
+    display:block;
+    padding: 13px 30px;
+    background-color: rgb(206, 26, 234);
+    color:white;
+    }
+
+.one li a:hover{background-color: darkslateblue;
+                color: aliceblue;}
